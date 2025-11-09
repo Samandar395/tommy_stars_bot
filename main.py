@@ -1,3 +1,7 @@
+
+from aiogram import Bot, Dispatcher, types
+from aiogram.utils import executor
+
 # ⚙️ Sozlamalar
 BOT_TOKEN = "7436784296:AAHtXbOln0sS4r8qWBaTUUnXWSE-d9Mdz8E"
 ADMIN_ID = 7881879285
