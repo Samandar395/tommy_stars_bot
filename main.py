@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-# Telegram Stars Bot - faqat +998 foydalanuvchilar uchun
-# Aiogram 3.x versiyasi uchun
-
-import asyncio
-from aiogram import Bot, Dispatcher, types, F
-from aiogram.filters import CommandStart
-from aiogram.types import (
-    ReplyKeyboardMarkup,
-    KeyboardButton,
-    InlineKeyboardMarkup,
-    InlineKeyboardButton
-)
-from aiogram.fsm.context import FSMContext
-from aiogram.fsm.state import StatesGroup, State
-
 # ⚙️ Sozlamalar
 BOT_TOKEN = "7436784296:AAHtXbOln0sS4r8qWBaTUUnXWSE-d9Mdz8E"
 ADMIN_ID = 7881879285
